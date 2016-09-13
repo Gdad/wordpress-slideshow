@@ -1,2 +1,2 @@
-=== WordPress Post Contributors ===
-Contributors: kishores
+=== WordPress Contributors ===
+Contributors: Naveen Giri
