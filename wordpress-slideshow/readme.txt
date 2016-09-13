@@ -1,2 +1,2 @@
-=== WordPress Contributors ===
+=== WordPress Slieshow ===
 Contributors: Naveen Giri
